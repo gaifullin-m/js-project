@@ -7,6 +7,7 @@ let persone = {
 };
 
 console.log(persone.age);
+console.log(persone.name);
 
 console.log(typeof(persone.age));
 
